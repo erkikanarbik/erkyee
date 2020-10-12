@@ -30,6 +30,11 @@ const Banner = () => (
                             </div>
                         </div>
                     </Col>
+                    <div>
+                        <div className="center-text slider-banner">
+                            <img alt="slid-banner" src="/assets/images/saas1/boonk.gif" className="img-fluid"/>
+                        </div>
+                    </div>
                 </Row>
             </Container>
         </div>
